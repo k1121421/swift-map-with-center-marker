@@ -5,8 +5,6 @@
 //  Created by Keita Nakashima on 2024/12/09.
 //
 
-// Create
-
 #include "Env-Config"
 
 // Create a file named Env-Config.xcconfig and specify the Google Maps API key using the following key.
